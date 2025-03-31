@@ -5,9 +5,12 @@
 
 body{
     background-color: lightgrey;
-    background-image: url("/assets/images/background-img.jpg");
+    background-image: url("assets/images/background-image");
 }
 
 h2 {
     color: orangered;
 }
+
+
+p { font-weight: bold; }
