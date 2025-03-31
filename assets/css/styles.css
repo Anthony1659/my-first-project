@@ -8,3 +8,5 @@
     background-image: url("/assets/images/01-02-02_background-img.jpg") ;
 }
 
+h1 { font-weight: bolder; }
+h2 { color: orangered; }
